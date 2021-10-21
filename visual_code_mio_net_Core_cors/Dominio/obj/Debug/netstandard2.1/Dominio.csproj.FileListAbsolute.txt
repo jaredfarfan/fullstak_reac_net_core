@@ -1,0 +1,9 @@
+C:\Users\jared\OneDrive\Documentos\proyectos\netcore\visual_code\Dominio\bin\Debug\netstandard2.1\Dominio.deps.json
+C:\Users\jared\OneDrive\Documentos\proyectos\netcore\visual_code\Dominio\bin\Debug\netstandard2.1\Dominio.dll
+C:\Users\jared\OneDrive\Documentos\proyectos\netcore\visual_code\Dominio\bin\Debug\netstandard2.1\Dominio.pdb
+C:\Users\jared\OneDrive\Documentos\proyectos\netcore\visual_code\Dominio\obj\Debug\netstandard2.1\Dominio.csprojAssemblyReference.cache
+C:\Users\jared\OneDrive\Documentos\proyectos\netcore\visual_code\Dominio\obj\Debug\netstandard2.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\jared\OneDrive\Documentos\proyectos\netcore\visual_code\Dominio\obj\Debug\netstandard2.1\Dominio.AssemblyInfo.cs
+C:\Users\jared\OneDrive\Documentos\proyectos\netcore\visual_code\Dominio\obj\Debug\netstandard2.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\jared\OneDrive\Documentos\proyectos\netcore\visual_code\Dominio\obj\Debug\netstandard2.1\Dominio.dll
+C:\Users\jared\OneDrive\Documentos\proyectos\netcore\visual_code\Dominio\obj\Debug\netstandard2.1\Dominio.pdb

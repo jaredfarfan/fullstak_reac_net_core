@@ -1,0 +1,12 @@
+C:\Users\jared\OneDrive\Documentos\proyectos\netcore\visual_code\Persistencia\bin\Debug\netstandard2.1\Persistencia.deps.json
+C:\Users\jared\OneDrive\Documentos\proyectos\netcore\visual_code\Persistencia\bin\Debug\netstandard2.1\Persistencia.dll
+C:\Users\jared\OneDrive\Documentos\proyectos\netcore\visual_code\Persistencia\bin\Debug\netstandard2.1\Persistencia.pdb
+C:\Users\jared\OneDrive\Documentos\proyectos\netcore\visual_code\Persistencia\bin\Debug\netstandard2.1\Dominio.dll
+C:\Users\jared\OneDrive\Documentos\proyectos\netcore\visual_code\Persistencia\bin\Debug\netstandard2.1\Dominio.pdb
+C:\Users\jared\OneDrive\Documentos\proyectos\netcore\visual_code\Persistencia\obj\Debug\netstandard2.1\Persistencia.csprojAssemblyReference.cache
+C:\Users\jared\OneDrive\Documentos\proyectos\netcore\visual_code\Persistencia\obj\Debug\netstandard2.1\Persistencia.AssemblyInfoInputs.cache
+C:\Users\jared\OneDrive\Documentos\proyectos\netcore\visual_code\Persistencia\obj\Debug\netstandard2.1\Persistencia.AssemblyInfo.cs
+C:\Users\jared\OneDrive\Documentos\proyectos\netcore\visual_code\Persistencia\obj\Debug\netstandard2.1\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\jared\OneDrive\Documentos\proyectos\netcore\visual_code\Persistencia\obj\Debug\netstandard2.1\Persistencia.csproj.CopyComplete
+C:\Users\jared\OneDrive\Documentos\proyectos\netcore\visual_code\Persistencia\obj\Debug\netstandard2.1\Persistencia.dll
+C:\Users\jared\OneDrive\Documentos\proyectos\netcore\visual_code\Persistencia\obj\Debug\netstandard2.1\Persistencia.pdb

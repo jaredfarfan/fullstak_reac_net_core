@@ -1,0 +1,14 @@
+C:\Users\jared\OneDrive\Documentos\proyectos\netcore\visual_code\Aplicacion\bin\Debug\netstandard2.1\Aplicacion.deps.json
+C:\Users\jared\OneDrive\Documentos\proyectos\netcore\visual_code\Aplicacion\bin\Debug\netstandard2.1\Aplicacion.dll
+C:\Users\jared\OneDrive\Documentos\proyectos\netcore\visual_code\Aplicacion\bin\Debug\netstandard2.1\Aplicacion.pdb
+C:\Users\jared\OneDrive\Documentos\proyectos\netcore\visual_code\Aplicacion\bin\Debug\netstandard2.1\Dominio.dll
+C:\Users\jared\OneDrive\Documentos\proyectos\netcore\visual_code\Aplicacion\bin\Debug\netstandard2.1\Persistencia.dll
+C:\Users\jared\OneDrive\Documentos\proyectos\netcore\visual_code\Aplicacion\bin\Debug\netstandard2.1\Dominio.pdb
+C:\Users\jared\OneDrive\Documentos\proyectos\netcore\visual_code\Aplicacion\bin\Debug\netstandard2.1\Persistencia.pdb
+C:\Users\jared\OneDrive\Documentos\proyectos\netcore\visual_code\Aplicacion\obj\Debug\netstandard2.1\Aplicacion.csprojAssemblyReference.cache
+C:\Users\jared\OneDrive\Documentos\proyectos\netcore\visual_code\Aplicacion\obj\Debug\netstandard2.1\Aplicacion.AssemblyInfoInputs.cache
+C:\Users\jared\OneDrive\Documentos\proyectos\netcore\visual_code\Aplicacion\obj\Debug\netstandard2.1\Aplicacion.AssemblyInfo.cs
+C:\Users\jared\OneDrive\Documentos\proyectos\netcore\visual_code\Aplicacion\obj\Debug\netstandard2.1\Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\jared\OneDrive\Documentos\proyectos\netcore\visual_code\Aplicacion\obj\Debug\netstandard2.1\Aplicacion.csproj.CopyComplete
+C:\Users\jared\OneDrive\Documentos\proyectos\netcore\visual_code\Aplicacion\obj\Debug\netstandard2.1\Aplicacion.dll
+C:\Users\jared\OneDrive\Documentos\proyectos\netcore\visual_code\Aplicacion\obj\Debug\netstandard2.1\Aplicacion.pdb
